@@ -1,6 +1,6 @@
 # cortex_libs
 
-Some code used in the past for playing with LPC17xx boards (I used this one: https://developer.mbed.org/media/uploads/wim/landtiger_v2.0_-_manual__v1.1.pdf)
+Some code used in the past for playing with LPC17xx (Cortex-M3) boards (I used this one: https://developer.mbed.org/media/uploads/wim/landtiger_v2.0_-_manual__v1.1.pdf)
 
 - BMP.h/c: allocates space and loads a .bmp file. 
 - dac-h/c: how to init the DAC and write a value.
